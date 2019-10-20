@@ -12,3 +12,4 @@ f(Language)
 
 
 #Link with Stoch Kappa
+https://opensky-network.org/api/states/all?icao24=4067f0
